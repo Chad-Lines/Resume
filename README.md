@@ -3,7 +3,7 @@
 
 ---
 ## PROFESSIONAL EXPERIENCE
----
+
 ### September 2021 - Present: Identity, Vulnerability, and Access Management Risk Consultant, Varo Bank
 Provide consultation on Project Management and Data Analysis for Identity and Access Management (IAM) for the first chartered fintech (>$2B valuation, >1K staff, >1MM active accounts).
 
@@ -58,21 +58,21 @@ Responsible for all off-hours server hardware and software provisioning, technic
 Responsible for overseeing daily performance of over 250 computer systems serving over 7,000 staff and student users, as well as hardware and software installation and desktop deployment, configuration and maintenance.
 
 ## EDUCATION
----
+
 ### Western Governors University
 Master of Business Administration - Information Technology Management, November 2018
 Bachelor of Science Business Administration and Information Technology Management, April 2017
 Bachelor of Science Software Development, Exp. April 2022
 
 ## CERTIFICATIONS
----
+
 **Professional Scrum Master I (PSM I)**; Scrum.org, April 2018
 **Parallels Remote Application Server Engineer**; Parallels, September 2016
 **Microsoft Certified IT Professional (MCITP)**; Microsoft, June 2013
 **System Administration Certification**; Pierce College, April 2012
 
 ## PROFESSIONAL SKILLS
----
+
 **Management:** Leadership, Communication, Coaching, Relationship Building, Critical Thinking, Oversight,
 Budgeting, Change Management
 **Development:** C#, Python, Scrum, SQL, HTML/JS/CSS, SQL, PowerShell, R
