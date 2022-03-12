@@ -61,7 +61,9 @@ Responsible for overseeing daily performance of over 250 computer systems servin
 
 ### Western Governors University
 **Master of Business Administration - Information Technology Management**, November 2018
+
 **Bachelor of Science Business Administration and Information Technology Management**, April 2017
+
 **Bachelor of Science Software Development**, Exp. April 2022
 
 ## CERTIFICATIONS
