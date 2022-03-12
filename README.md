@@ -73,13 +73,44 @@ Responsible for overseeing daily performance of over 250 computer systems servin
 
 ## PROFESSIONAL SKILLS
 
-**Management:** Leadership, Communication, Coaching, Relationship Building, Critical Thinking, Oversight,
-Budgeting, Change Management
+### Management
 
-**Development:** C#, Python, Scrum, SQL, HTML/JS/CSS, SQL, PowerShell, R
+* Leadership
+* Communication
+* Coaching
+* Relationship Building
+* Critical Thinking
+* Oversight
+* Budgeting
+* Change Management
 
-**Project Management:** Task decomposition, scheduling, budgeting, stakeholder engagement, process
-documentation, etc.
+### Development
 
-**Administration:** VMware ESXi, AWS, Ubuntu, Windows Server 2008/2012/2016, MS Exchange, MS SQL Server,
-SCCM, Office 365, Google Workspace
+* C#
+* SQL
+* Python
+* Scrum
+* SQL
+* HTML/JS/CSS
+* PowerShell
+* R
+
+### Project Management
+
+* Task Decomposition
+* Scheduling
+* Budgeting
+* Stakeholder Engagement
+* Process Documentation and Improvement
+
+### Administration
+
+* MySQL, PostgreSQL
+* MS SQL Server
+* VMware ESXi
+* AWS
+* Ubuntu
+* Windows Server
+* SCCM
+* Office 365
+* Google Workspace
