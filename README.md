@@ -60,25 +60,26 @@ Responsible for overseeing daily performance of over 250 computer systems servin
 ## EDUCATION
 
 ### Western Governors University
-**Master of Business Administration - Information Technology Management**, November 2018
-
-**Bachelor of Science Business Administration and Information Technology Management**, April 2017
-
-**Bachelor of Science Software Development**, Exp. April 2022
+* **Master of Business Administration - Information Technology Management**, November 2018
+* **Bachelor of Science Business Administration and Information Technology Management**, April 2017
+* **Bachelor of Science Software Development**, Exp. April 2022
 
 ## CERTIFICATIONS
 
-**Professional Scrum Master I (PSM I)**; Scrum.org, April 2018
-**Parallels Remote Application Server Engineer**; Parallels, September 2016
-**Microsoft Certified IT Professional (MCITP)**; Microsoft, June 2013
-**System Administration Certification**; Pierce College, April 2012
+* **Professional Scrum Master I (PSM I)**; Scrum.org, April 2018
+* **Parallels Remote Application Server Engineer**; Parallels, September 2016
+* **Microsoft Certified IT Professional (MCITP)**; Microsoft, June 2013
+* **System Administration Certification**; Pierce College, April 2012
 
 ## PROFESSIONAL SKILLS
 
 **Management:** Leadership, Communication, Coaching, Relationship Building, Critical Thinking, Oversight,
 Budgeting, Change Management
+
 **Development:** C#, Python, Scrum, SQL, HTML/JS/CSS, SQL, PowerShell, R
+
 **Project Management:** Task decomposition, scheduling, budgeting, stakeholder engagement, process
 documentation, etc.
+
 **Administration:** VMware ESXi, AWS, Ubuntu, Windows Server 2008/2012/2016, MS Exchange, MS SQL Server,
 SCCM, Office 365, Google Workspace
