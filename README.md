@@ -1,4 +1,4 @@
-# Chad Lines
+# Chad Lines, MBA
 (360) 850 - 6547 | chad.lines1@gmail.com | www.chadl.org | [github.com/Chad-Lines](https://github.com/Chad-Lines) | [linkedin.com/in/ChadLines](https://wwww.linkedin.com/in/chadlines)
 
 ---
